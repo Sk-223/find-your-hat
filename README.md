@@ -7,15 +7,15 @@ This project is an interactive terminal game built using JavaScript classes. The
 "Find Your Hat" is an interactive terminal game built using JavaScript classes. The player starts in the upper-left corner of a grid and must navigate to find the hat (^) while avoiding holes (O). The player's path is marked with *, and the rest of the field is represented by ░.
 
 ## Table of Contents
-- Project Requirements
-- Features
-- Installation
-- Usage
-- Class Structure
-- Game Logic
-- Controls
-- Contributing
-- License
+- [Project Requirements](#project-requirements)
+- [Features](#features)
+- [Installation](#installation)
+- [Usage](#usage)
+- [Class Structure](#class-structure)
+- [Game Logic](#game-logic)
+- [Controls](#controls)
+- [Contributing](#contributing)
+- [License](#license)
 
 ## Project Requirements
 For this project, I was to create an interactive terminal game using JavaScript classes. The player starts in the upper-left corner of a grid and must navigate to find the hat (^) while avoiding holes (O). The player's path is marked with *, and the rest of the field is represented by ░.
