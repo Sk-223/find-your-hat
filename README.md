@@ -1,7 +1,8 @@
 # CodeCademy Challenge Project: "Find Your Hat"
 
-
 This project is an interactive terminal game built using JavaScript classes. The game is played in the terminal, where the player moves through a field to find a hat while avoiding holes. The player uses the W, A, S, and D keys to navigate through the field, up, left, down, and right, respectively.
+
+<img src="https://github.com/Sk-223/find-your-hat/assets/104045720/a22feb42-47c4-442e-af79-e23aff093545" alt="Game Start" width="400">
 
 ## Overview
 "Find Your Hat" is an interactive terminal game built using JavaScript classes. The player starts in the upper-left corner of a grid and must navigate to find the hat (^) while avoiding holes (O). The player's path is marked with *, and the rest of the field is represented by ░.
@@ -98,6 +99,12 @@ Initializes the field and sets the player's starting position.
 ### Win/Lose Conditions:
 - Win: The player finds the hat.
 - Lose: The player falls into a hole or moves outside the field.
+
+### Game Win:
+<img src="https://github.com/Sk-223/find-your-hat/assets/104045720/67ccbf21-1b4e-411a-973c-0c7385755fd9" alt="Game Win" width="400">
+
+### Game Loss:
+<img src="https://github.com/Sk-223/find-your-hat/assets/104045720/596245bb-e6b2-4b33-93ab-f3ebd87cf067" alt="Game Loss" width="400">
 
 ## Controls
 WASD Keys:
